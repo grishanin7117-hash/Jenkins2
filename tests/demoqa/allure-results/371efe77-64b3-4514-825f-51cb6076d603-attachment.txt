@@ -1,0 +1,2 @@
+WARNING  dotenv.main:main.py:26 Python-dotenv could not parse statement starting at line 1
+WARNING  dotenv.main:main.py:26 Python-dotenv could not parse statement starting at line 2
