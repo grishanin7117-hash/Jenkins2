@@ -1,0 +1,1 @@
+WARNING  urllib3.connectionpool:connectionpool.py:827 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F53218A510>, 'Connection to selenoid.autotests.cloud timed out. (connect timeout=None)')': /wd/hub/session
